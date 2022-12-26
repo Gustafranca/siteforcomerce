@@ -1,0 +1,67 @@
+body{
+    background-color: #5c4b7c;
+}
+.title{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(63, 57, 75) ;
+}
+.img1{
+    width: 200px;
+    height: 200px;
+    float:left;
+    border: #121213 3px solid;
+}
+
+.text{
+    font-size: 25px;
+    font-family: 'Dosis', sans-serif;
+    text-align: center, justify;
+    
+}
+.div1{
+    float: left;
+    height: 100vh;
+    background-color: #5c4b7c;
+
+}
+.div2{
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: #5c4b7c;
+}
+.linkgit, .linkpag1, .pag1voltar , .linkpag2,.pag2voltar,.linkpag3{
+    color: antiquewhite;
+}
+.pag1{
+    background-color: #5c4b7c;
+}
+.uptime{
+    width: 290px;
+    height: 400px;
+}
+.uptime{
+    width: 450px;
+    height: 350px;
+    background-color: #5c4b7c;
+}
+
+.textuptime{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Dosis', sans-serif;
+    text-decoration: underline;
+    
+}
+.pag1voltar,.pag2voltar{
+    bottom: 0;
+    position: fixed;
+    text-decoration: none;
+}
+.paragrafo21{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Dosis', sans-serif;
+
+}
